@@ -65,7 +65,7 @@ function App() {
             onClick={() => invite(ZegoUIKitPrebuilt.InvitationTypeVideoCall)}
             className="w-[200px] h-[50px] rounded-2xl bg-green-500 hover:bg-green-600 transition text-white text-lg font-semibold"
           >
-            Video Cal
+            Video Call
           </button>
         </div>
       </div>
